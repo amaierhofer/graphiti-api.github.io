@@ -169,7 +169,7 @@ Oh, and we dropped support for lazy-loading along the way.
 </p>
 
 The benefit of REST over RPC is conventions. Conventions cause increased
-productivity and consistency (leading to fewer misunderstandiings and
+productivity and consistency (leading to fewer misunderstandings and
 chances for bugs). Let's start thinking in REST, and see where it takes
 us.
 
